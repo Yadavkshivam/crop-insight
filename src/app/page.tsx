@@ -111,7 +111,7 @@ export default function Home() {
         <section className="text-center mb-12">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-green-100 dark:bg-green-900/30 rounded-full text-green-700 dark:text-green-300 text-sm font-medium mb-6">
             <Sparkles className="w-4 h-4" />
-            Powered by Gemini AI
+            Powered by Google Gemini AI
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-4">
             AI Agriculture
