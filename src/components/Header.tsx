@@ -11,11 +11,11 @@ export default function Header() {
               <Leaf className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-gray-800 dark:text-white">
+              <h1 className="text-xl font-extrabold bg-gradient-to-r from-green-500 via-emerald-500 to-teal-400 bg-clip-text text-transparent tracking-tight leading-none">
                 AI Agriculture
               </h1>
               <p className="text-xs text-gray-500 dark:text-gray-400">
-                Insight Builder
+                Insight Information
               </p>
             </div>
           </div>
